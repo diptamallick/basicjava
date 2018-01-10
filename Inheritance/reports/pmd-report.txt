@@ -1,0 +1,67 @@
+src/com/acc/Human.java:3:	Abstract classes should be named AbstractXXX
+src/com/acc/Human.java:3:	Each class should declare at least one constructor
+src/com/acc/Human.java:3:	headerCommentRequirement Required
+src/com/acc/Human.java:5:	To avoid mistakes add a comment at the beginning of the age field if you want a default access modifier
+src/com/acc/Human.java:5:	Use explicit scoping instead of the default package private level
+src/com/acc/Human.java:5:	fieldCommentRequirement Required
+src/com/acc/Human.java:6:	To avoid mistakes add a comment at the beginning of the weight field if you want a default access modifier
+src/com/acc/Human.java:6:	Use explicit scoping instead of the default package private level
+src/com/acc/Human.java:6:	fieldCommentRequirement Required
+src/com/acc/Human.java:7:	To avoid mistakes add a comment at the beginning of the respirate method if you want a default access modifier
+src/com/acc/Human.java:7:	Use explicit scoping instead of the default package private level
+src/com/acc/Human.java:9:	System.out.println is used
+src/com/acc/Human.java:12:	To avoid mistakes add a comment at the beginning of the eat method if you want a default access modifier
+src/com/acc/Human.java:12:	Use explicit scoping instead of the default package private level
+src/com/acc/Human.java:13:	System.out.println is used
+src/com/acc/Human.java:15:	To avoid mistakes add a comment at the beginning of the run method if you want a default access modifier
+src/com/acc/Human.java:15:	Use explicit scoping instead of the default package private level
+src/com/acc/Man.java:3:	Avoid short class names like Man
+src/com/acc/Man.java:3:	Each class should declare at least one constructor
+src/com/acc/Man.java:3:	headerCommentRequirement Required
+src/com/acc/Man.java:5:	To avoid mistakes add a comment at the beginning of the name field if you want a default access modifier
+src/com/acc/Man.java:5:	Use explicit scoping instead of the default package private level
+src/com/acc/Man.java:5:	fieldCommentRequirement Required
+src/com/acc/Man.java:6:	To avoid mistakes add a comment at the beginning of the run method if you want a default access modifier
+src/com/acc/Man.java:6:	Use explicit scoping instead of the default package private level
+src/com/acc/Man.java:7:	System.out.println is used
+src/com/acc/Test1.java:3:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/com/acc/Test1.java:3:	headerCommentRequirement Required
+src/com/acc/Test1.java:5:	Parameter 'args' is not assigned and could be declared final
+src/com/acc/Test1.java:5:	publicMethodCommentRequirement Required
+src/com/acc/Test1.java:7:	Avoid variables with short names like m
+src/com/acc/Test1.java:7:	Local variable 'm' could be declared final
+src/com/acc/Test1.java:10:	Avoid variables with short names like w
+src/com/acc/Test1.java:10:	Local variable 'w' could be declared final
+src/com/acc/Woman.java:3:	Each class should declare at least one constructor
+src/com/acc/Woman.java:3:	headerCommentRequirement Required
+src/com/acc/Woman.java:4:	To avoid mistakes add a comment at the beginning of the name field if you want a default access modifier
+src/com/acc/Woman.java:4:	Use explicit scoping instead of the default package private level
+src/com/acc/Woman.java:4:	fieldCommentRequirement Required
+src/com/acc/Woman.java:5:	To avoid mistakes add a comment at the beginning of the run method if you want a default access modifier
+src/com/acc/Woman.java:5:	Use explicit scoping instead of the default package private level
+src/com/acc/Woman.java:6:	System.out.println is used
+src/com/acc1/Book.java:3:	Avoid short class names like Book
+src/com/acc1/Book.java:3:	Each class should declare at least one constructor
+src/com/acc1/Book.java:3:	headerCommentRequirement Required
+src/com/acc1/Book.java:5:	To avoid mistakes add a comment at the beginning of the type method if you want a default access modifier
+src/com/acc1/Book.java:5:	Use explicit scoping instead of the default package private level
+src/com/acc1/Book.java:6:	System.out.println is used
+src/com/acc1/Book.java:8:	To avoid mistakes add a comment at the beginning of the front method if you want a default access modifier
+src/com/acc1/Book.java:8:	Use explicit scoping instead of the default package private level
+src/com/acc1/Book.java:9:	System.out.println is used
+src/com/acc1/Novel.java:3:	Each class should declare at least one constructor
+src/com/acc1/Novel.java:3:	headerCommentRequirement Required
+src/com/acc1/Novel.java:5:	To avoid mistakes add a comment at the beginning of the story method if you want a default access modifier
+src/com/acc1/Novel.java:5:	Use explicit scoping instead of the default package private level
+src/com/acc1/Novel.java:7:	System.out.println is used
+src/com/acc1/Poetry.java:3:	Each class should declare at least one constructor
+src/com/acc1/Poetry.java:3:	headerCommentRequirement Required
+src/com/acc1/Poetry.java:5:	To avoid mistakes add a comment at the beginning of the poem method if you want a default access modifier
+src/com/acc1/Poetry.java:5:	Use explicit scoping instead of the default package private level
+src/com/acc1/Poetry.java:6:	System.out.println is used
+src/com/acc1/Test2.java:3:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/com/acc1/Test2.java:3:	headerCommentRequirement Required
+src/com/acc1/Test2.java:5:	Parameter 'args' is not assigned and could be declared final
+src/com/acc1/Test2.java:5:	publicMethodCommentRequirement Required
+src/com/acc1/Test2.java:8:	Avoid variables with short names like n
+src/com/acc1/Test2.java:8:	Local variable 'n' could be declared final
