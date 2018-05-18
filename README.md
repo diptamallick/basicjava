@@ -1,1 +1,1 @@
-# javaprojects
+# basic java code for testing
